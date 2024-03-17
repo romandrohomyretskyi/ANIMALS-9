@@ -1,4 +1,7 @@
-''''Клас BrownBear наслідує метод appearance() як від Herbivores, так і від Carnivores через клас Beers.
+
+
+
+'''Клас BrownBear наслідує метод appearance як від Herbivores, так і від Carnivores через клас Beers.
 Коли Python знаходить метод appearance у класі Beers, він використовує перший метод який знаходить у своєму ланцюжку успадкування
 А з класом Cobra проблем немає, то причині наслідування тільки від CoolBlooded'''
 
